@@ -1,0 +1,90 @@
+C:\Users\nanon\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\nanon\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\nanon\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\nanon\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\nanon\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+C:\Users\nanon\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\nanon\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\nanon\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\nanon\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\nanon\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\nanon\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.AdminFunctions.resources
+C:\Users\nanon\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.createEmployee.resources
+C:\Users\Nada\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Nada\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Nada\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Nada\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\Nada\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.AdminFunctions.resources
+C:\Users\Nada\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.createEmployee.resources
+C:\Users\Nada\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+C:\Users\Nada\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\Nada\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\Nada\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Nada\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Nada\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.AdminFunctions.resources
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.createEmployee.resources
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\nanon\Downloads\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.AdminFunctions.resources
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.createEmployee.resources
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+E:\TaskManager-20190420T135528Z-001\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\nanon\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\nanon\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\nanon\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.AdminFunctions.resources
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.createEmployee.resources
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.Form2.resources
+C:\Users\nanon\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.projects_data.resources
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.AdminFunctions.resources
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.createEmployee.resources
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.Form2.resources
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.projects_data.resources
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Nada\Desktop\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.AdminFunctions.resources
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.createEmployee.resources
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.Form2.resources
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.projects_data.resources
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\nanon\Documents\taskmanager official\TaskManager\TaskManager\obj\Debug\TaskManager.pdb

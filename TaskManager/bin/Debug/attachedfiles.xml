@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table name="attachedfiles">
+  <file1>
+    <path>C:\Users\Nada\Desktop\</path>
+  </file1>
+  <file1>
+    <path>E:\OneDrive\</path>
+  </file1>
+  <file1>
+    <path>C:\Users\Nada\Pictures\Saved Pictures\</path>
+  </file1>
+  <file1>
+    <path>1</path>
+    <id />
+  </file1>
+  <file1>
+    <path>C:\Users\Nada\Downloads\Music\</path>
+    <id>1</id>
+  </file1>
+  <file1>
+    <path>E:\OneDrive\Documents\</path>
+    <id>1</id>
+    <projectname>Software</projectname>
+    <tasknkae>task111</tasknkae>
+  </file1>
+  <file1>
+    <path>C:\Users\Nada\Desktop\TaskManager\TaskManager\</path>
+    <projectname>Software</projectname>
+    <taskname>task111</taskname>
+    <taskid>1</taskid>
+  </file1>
+  <file1>
+    <path>E:\OneDrive\Documents\</path>
+    <projectname>Software</projectname>
+    <taskname>task111</taskname>
+    <taskid>1</taskid>
+  </file1>
+  <file1>
+    <path>
+    </path>
+    <projectname>
+    </projectname>
+    <taskname>
+    </taskname>
+    <taskid>
+    </taskid>
+  </file1>
+</table>

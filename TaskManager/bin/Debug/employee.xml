@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <id>1</id>
+    <name>b</name>
+    <type>Admin</type>
+    <password>1</password>
+    <tasks />
+    <projects />
+  </Employee>
+  <Employee>
+    <id>1</id>
+    <name>nada</name>
+    <type>1</type>
+    <password>Admin</password>
+    <tasks />
+    <projects />
+  </Employee>
+  <Employee>
+    <id>3</id>
+    <name>ahmed</name>
+    <type>User</type>
+    <password>123</password>
+    <tasks />
+    <projects />
+  </Employee>
+</ArrayOfEmployee>
